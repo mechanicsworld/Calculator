@@ -1,3 +1,4 @@
+#This is calculator program in github project
 def add(a,b):
   s=a+b
   return s 
